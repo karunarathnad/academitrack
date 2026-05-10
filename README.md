@@ -1,6 +1,6 @@
 # AcademiTrack
 
-> A Ruby on Rails web application that helps university students manage their academic activities, subjects, and grade tracking in one place.
+A Ruby on Rails web application that helps university students manage their academic activities, subjects, and grade tracking in one place.
 
 ---
 
@@ -8,7 +8,7 @@
 
 **AcademiTrack** is a student-focused academic management system built with Ruby on Rails. It allows students to register, track their enrolled subjects, record grades, and monitor their academic progress throughout their university journey.
 
-The application features user authentication, dynamic subject management with GPA/grade calculations, paginated listings, and a search interface — all wrapped in a clean Bootstrap UI.
+The application features user authentication, dynamic subject management with GPA/grade calculations, paginated listings, and a search interface - all wrapped in a clean Bootstrap UI.
 
 ---
 
@@ -53,8 +53,8 @@ The application features user authentication, dynamic subject management with GP
 
 ```bash
 # Clone the repository
-git clone https://github.com/karunarathnad/university.git
-cd university
+git clone https://github.com/karunarathnad/academitrack.git
+cd academitrack
 
 # Install dependencies
 bundle install
